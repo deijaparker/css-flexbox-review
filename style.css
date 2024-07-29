@@ -13,3 +13,7 @@ html, body {
   ul {
     text-align: right;
   }
+
+  h1 {
+    font-size: 20px;
+  }
