@@ -92,3 +92,10 @@ html, body {
   .col {
   
   }
+
+  #expertise {
+    padding: 20px;
+    background-color: #ffc200;
+    margin: 0;
+    text-align: center;
+  }
