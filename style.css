@@ -99,3 +99,21 @@ html, body {
     margin: 0;
     text-align: center;
   }
+
+  /*Footer Section*/
+.footer {
+    padding: 60px 0px;
+    background-color: #000;
+    color: #fff;
+  }
+  
+  .footer h3 {
+    font-size: 20px;
+    margin-left: 20px;
+  }
+  
+  .footer p {
+    font-size:12px;
+    margin-bottom: 0;
+    margin-left: 20px;
+  }
